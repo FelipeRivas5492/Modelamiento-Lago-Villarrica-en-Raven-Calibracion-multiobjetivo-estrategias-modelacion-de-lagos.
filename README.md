@@ -1,5 +1,3 @@
-# Modelamiento-Lago-Villarrica-en-Raven-Calibracion-multiobjetivo-modelos-de-lagos.
-
 
 <strong> MODELAMIENTO LAGO VILLARRICA EN RAVEN: CALIBRACIÓN MULTIOBJETIVO MODELOS DE LAGOS. INVESTIGACIONES EN:</strong>
 <p align="justify">
