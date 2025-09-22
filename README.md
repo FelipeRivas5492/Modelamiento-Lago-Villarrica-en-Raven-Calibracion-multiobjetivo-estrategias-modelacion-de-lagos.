@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src= "https://raw.githubusercontent.com/FelipeRivas5492/RF_corrPP/main/MAP.png" alt="Figura 1 - MAP">
+  <img src= "https://raw.githubusercontent.com/FelipeRivas5492/Modelamiento-Lago-Villarrica-en-Raven-Calibracion-multiobjetivo-modelos-de-lagos./main/calib.png" alt="Figura 1 - MAP">
 </div>
 <p><strong>Figura 1</strong>: Mapa estaciones usadas en entrenamiento y validaciones.</p>
 
