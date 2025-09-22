@@ -9,9 +9,9 @@
 </p>
 
 <div align="center">
-  <img src= "https://raw.githubusercontent.com/FelipeRivas5492/Modelamiento-Lago-Villarrica-en-Raven-Calibracion-multiobjetivo-modelos-de-lagos./main/calib.png" alt="Figura 1 - MAP">
+  <img src= "https://raw.githubusercontent.com/FelipeRivas5492/Modelamiento-Lago-Villarrica-en-Raven-Calibracion-multiobjetivo-modelos-de-lagos./main/calib.png" alt="Figura 1 - CALIB">
 </div>
-<p><strong>Figura 1</strong>: Mapa estaciones usadas en entrenamiento y validaciones.</p>
+<p><strong>Figura 1</strong>: Comparación calibraciones multiobjetivo modelos embalse (E) y cuerpo de agua (CA) para situaciones con y sin corrección de forzantes.</p>
 
 
 
