@@ -5,12 +5,9 @@
 </p>
 
 
-
 <p align="justify">
-</strong> Rivas, F. A. (2025). Análisis de los métodos de estimación de procesos en el contexto del balance hídrico de una cuenca lacustre: Uso de la plataforma Raven para el Lago Villarrica. Memoria para optar al Título de Ingeniero Civil, Departamento de Ingeniería Civil, Universidad de Chile.</strong>
+<strong> Rivas, F. A. (2025). Análisis de los métodos de estimación de procesos en el contexto del balance hídrico de una cuenca lacustre: Uso de la plataforma Raven para el Lago Villarrica. Memoria para optar al Título de Ingeniero Civil, Departamento de Ingeniería Civil, Universidad de Chile..</strong>
 </p>
-
-
 
 
 
