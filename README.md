@@ -4,6 +4,19 @@
 <strong> Rivas, F., & Rubio, E. (2025). Modelamiento hidrológico de la cuenca del lago Villarrica con Raven: Una metodología multiobjetivo para la comparación de estrategias de modelación de lagos. Revista de la Sociedad Chilena de Ingeniería Hidráulica (SOCHID), 40(2), 81–. ISSN 0716-3746.</strong>
 </p>
 
+
+
+<p align="justify">
+</strong>Rivas, F. A. (2025). Análisis de los métodos de estimación de procesos en el contexto del balance hídrico de una cuenca lacustre: Uso de la plataforma Raven para el Lago Villarrica. Memoria para optar al Título de Ingeniero Civil, Departamento de Ingeniería Civil, Universidad de Chile.</strong>
+</p>
+
+
+
+
+
+
+
+
 <p align="justify">
 1. En las carpetas se encuentran los modelos ya definidos para correr la calibración, cualquier codigo o archivo o procedimiento adicional que se requiera por favor consultar al correo.
 </p>
