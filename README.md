@@ -12,7 +12,7 @@
 
 
 <p align="justify">
-1. En las carpetas se encuentran los modelos ya definidos para correr la calibración para los modelos con corrección de forzantes, cualquier codigo o archivo o procedimiento adicional que se requiera por favor consultar al correo.
+1. En las carpetas se encuentran los modelos ya definidos para correr la calibración para los modelos con corrección de forzantes, cualquier codigo o archivo o procedimiento adicional que se necesite por favor consultar al correo.
 </p>
 
 
